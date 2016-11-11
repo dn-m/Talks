@@ -1,3 +1,7 @@
 # References
 
 [Bézier Paths](http://pomax.github.io/bezierinfo/)
+
+[Javascript Reference in Illustrator](http://wwwimages.adobe.com/content/dam/Adobe/en/devnet/pdf/illustrator/scripting/cs6/Illustrator-Scripting-Reference-JavaScript.pdf)
+
+[Illustrator Scripting Guide](http://wwwimages.adobe.com/content/dam/Adobe/en/devnet/pdf/illustrator/scripting/cs6/Illustrator-Scripting-Guide.pdf)
