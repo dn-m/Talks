@@ -8,4 +8,4 @@
 
 [Illustrator Scripting Guide](http://wwwimages.adobe.com/content/dam/Adobe/en/devnet/pdf/illustrator/scripting/cs6/Illustrator-Scripting-Guide.pdf)
 
-[Multi-page PDFs script](http://rwillustrator.blogspot.com/2011/03/convert-pdf-pages-to-illustrator.html)
+[Multi-page PDFs script](http://aiscripts.com/open-multipage-pdf/)
